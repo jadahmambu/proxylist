@@ -20,10 +20,10 @@
 36.95.152.58,12137,ID,PT Telkom Indonesia
 43.218.77.16,443,ID,Amazoncom
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
-103.186.1.209:2053,ID,Cv Ansa Project
-103.186.1.209:8443,ID,Cv Ansa Project
-101.50.0.114:2053,ID,Pt. Beon Intermedia
-101.50.0.114:8443,ID,Pt. Beon Intermedia
+103.186.1.209,2053,ID,Cv Ansa Project
+103.186.1.209,8443,ID,Cv Ansa Project
+101.50.0.114,2053,ID,Pt. Beon Intermedia
+101.50.0.114,8443,ID,Pt. Beon Intermedia
 47.74.254.191,8900,SG,Alibaba
 45.77.171.102,3128,SG,Vultr
 139.180.144.170,666,SG,Vultr
